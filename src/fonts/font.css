@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "CooperHewitt-Bold";
+  src: url("./CooperHewitt-Bold.otf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CooperHewitt-Book";
+  src: url("./CooperHewitt-Book.otf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CooperHewitt-Medium";
+  src: url("./CooperHewitt-Medium.otf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CooperHewitt-Semibold";
+  src: url("./CooperHewitt-Semibold.otf");
+  font-display: swap;
+}
